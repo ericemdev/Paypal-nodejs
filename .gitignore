@@ -1,0 +1,9 @@
+# Ignore JetBrains IDE configuration folder
+.idea/
+
+# Ignore environment variables file
+.env
+
+# Add any other files or folders to ignore below
+node_modules/  # Example for Node.js projects
+dist/          # Example for build artifacts
