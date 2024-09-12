@@ -1,9 +1,16 @@
-﻿# Paypal-nodejs
- paypal payment integration with node js 
- #Get Started
+# Paypal-nodejs integration by ericem
+##pre-requisites
+1. Node.js installed
+2. paypal developer account https://developer.paypal.com/
 
- git clone 
+create a file named .env in the root directory and add the following
+```PAYPAL_CLIENT_ID=YOUR_CLIENT_ID```
+```PAYPAL_CLIENT_SECRET
 
- npm install
+## Installation
+```npm install```
 
- 
+## Run
+```node app.js```
+or 
+```npm start```
